@@ -9,8 +9,8 @@ export default function Featured() {
     <div id="how" className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0 bg-white">
       <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
         <img
-          src="https://cdn.poehali.dev/projects/275daabb-654c-49ff-b59f-ce277fd4666c/files/93098f7c-aeaa-4e0e-8918-f37143c3a38f.jpg"
-          alt="3D character figurines collection"
+          src="https://cdn.poehali.dev/projects/275daabb-654c-49ff-b59f-ce277fd4666c/bucket/9ebf62d9-0cd5-422e-8806-d64e8b18aefd.jpg"
+          alt="Сатору Годжо — пример работы"
           className="w-full h-full object-cover"
         />
       </div>
