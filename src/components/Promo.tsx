@@ -34,7 +34,7 @@ export default function Promo() {
           Любой персонаж — аниме, игра, кино — станет твоей личной фигуркой.
         </p>
         <a
-          href="https://t.me/"
+          href="https://wa.me/79381231091"
           className="inline-block px-8 py-3 bg-white text-black uppercase text-sm tracking-wide hover:bg-neutral-200 transition-colors duration-300"
         >
           Написать и заказать
