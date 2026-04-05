@@ -26,13 +26,20 @@ export default function Promo() {
       </div>
 
       <h3 className="absolute top-12 right-6 text-white uppercase z-10 text-sm md:text-base lg:text-lg">
-        Анатомия возможностей
+        Оживляем персонажей
       </h3>
 
-      <p className="absolute bottom-12 right-6 text-white text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-5xl z-10">
-        Каждая секция — рамка для твоей истории. Формируй её, миксуй и позволь контенту
-        литься в неожиданные паттерны, заставляя листать дальше.
-      </p>
+      <div id="order" className="absolute bottom-12 right-6 z-10 text-right">
+        <p className="text-white text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl mb-8">
+          Любой персонаж — аниме, игра, кино — станет твоей личной фигуркой.
+        </p>
+        <a
+          href="https://t.me/"
+          className="inline-block px-8 py-3 bg-white text-black uppercase text-sm tracking-wide hover:bg-neutral-200 transition-colors duration-300"
+        >
+          Написать и заказать
+        </a>
+      </div>
     </div>
   );
 }
